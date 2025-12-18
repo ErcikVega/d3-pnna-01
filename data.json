@@ -21,15 +21,15 @@
     "Avance segun plan": 100,
     "Avance real": 49,
     "Estado actual": "En progreso",
-    "Observaciones": "En octubre se consolidó el Manual A-CDM Cusco (Fase 1) con mejoras y quedó en revisión para sustentar pruebas. Asimismo, se incorporaron ajustes de la validación de setiembre para optimizar la coordinación TWR/APP Cusco–FMP Lima–operadores–explotador. Además, se elaboró el borrador del Suplemento AIP que ordena concepto, procedimientos y canales de comunicación. Previamente, se completó la capacitación del FMP Lima y se habilitaron usuarios ATFM con pruebas funcionales iniciales. Finalmente, se reprogramó el hito de inicio para después de la segunda quincena de enero de 2026 por dependencias técnicas y operativas."
+    "Observaciones": "Se ejecutaron ejercicios de validación y refuerzo de capacidades, con pruebas internas orientadas a mejorar la funcionalidad y la presentación de la información por perfil de usuario; se impartió una segunda capacitación al FMP Lima con repaso de procedimientos ATFM; y, pese a la reprogramación del hito preoperacional, se realizaron pruebas preparatorias presenciales del 17 al 21 de noviembre para verificar conectividad, coordinación TWR–APP–FMP y atención a aerolíneas. Finalmente, se inició el análisis de resultados y el mantenimiento de itinerarios de diciembre."
   },
   {
     "ONR": "AOP 09",
     "Fecha I.": 2022,
     "Avance segun plan": 100,
-    "Avance real": 0,
-    "Estado actual": "Retrasado",
-    "Observaciones": "(ACDM-B02-Integración de la red ATM)Se han iniciado coordinaciones con el FMU LIMA respecto del concepto ACDM y la funcion de dicha dependencia ATFM en el intercambio de informacion. Sin embargo los procedimientos operacionales estan pendientes de definicion ya  que estan relacionados a la definicion de procedimientos de la Fase 1 que se encuentra por definir."
+    "Avance real": 2,
+    "Estado actual": "En progreso",
+    "Observaciones": "Se han consolidado las coordinaciones con el FMU LIMA respecto del concepto ACDM y la funcion de dicha dependencia ATFM en el intercambio de informacion. Se esta registrando información para la elaboración de los procedimientos operacionales."
   },
   {
     "ONR": "AOP 11",
@@ -37,7 +37,7 @@
     "Avance segun plan": 100,
     "Avance real": 60,
     "Estado actual": "En progreso",
-    "Observaciones": "(Integración de seguridad operacional con ss ATS) CORPAC coordina con LAP, AdP y AAP la implementación y seguimiento de sus SMS."
+    "Observaciones": "( Integración de seguridad operacional con ss ATS ) CORPAC coordina con LAP, AdP y AAP la implementación y seguimiento de sus SMS."
   },
   {
     "ONR": "ATM 01",
@@ -45,7 +45,7 @@
     "Avance segun plan": 100,
     "Avance real": 23,
     "Estado actual": "En progreso",
-    "Observaciones": "(PBN básico) Procedimientos: El 23% de los aeródromos nacionales e internacionales que cuentan con pista de vuelo instrumental, cuentan con porcedimientos de aproximación PBN con capacidades básicas (RNP APCH)."
+    "Observaciones": "( PBN básico ) Procedimientos: El 23% de los aeródromos nacionales e internacionales que cuentan con pista de vuelo instrumental, cuentan con procedimientos de aproximación PBN con capacidades básicas (RNP APCH)."
   },
   {
     "ONR": "ATM 02",
@@ -53,7 +53,7 @@
     "Avance segun plan": 100,
     "Avance real": 74,
     "Estado actual": "En progreso",
-    "Observaciones": "(PBN avanzado) Procedimientos: El 74% de los aeródromos nacionales e internacionales que cuentan con pista de vuelo instrumental, cuentan con porcedimientos de aproximación PBN con capacidades avanzadas (RNP AR APCH)."
+    "Observaciones": "( PBN avanzado ) Procedimientos: El 74% de los aeródromos nacionales e internacionales que cuentan con pista de vuelo instrumental, cuentan con porcedimientos de aproximación PBN con capacidades avanzadas (RNP AR APCH)."
   },
   {
     "ONR": "ATM 03",
@@ -61,7 +61,7 @@
     "Avance segun plan": 100,
     "Avance real": 57,
     "Estado actual": "En progreso",
-    "Observaciones": "(PBN en SID y STAR básico) Procedimientos: generación de cartas, simulación/validación y preparación de AIP. En curso la coordinación con ATC/operadores y la verificación de trayectorias."
+    "Observaciones": "( PBN en SID y STAR básico ) Procedimientos: generación de cartas, simulación/validación y preparación de AIP. En curso la coordinación con ATC/operadores y la verificación de trayectorias."
   },
   {
     "ONR": "ATM 04",
@@ -69,7 +69,7 @@
     "Avance segun plan": 100,
     "Avance real": 7,
     "Estado actual": "En progreso",
-    "Observaciones": "(PBN en SID y STAR avanzado) Procedimientos: generación de cartas, simulación/validación y preparación de AIP. En curso la coordinación con ATC/operadores y la verificación de trayectorias."
+    "Observaciones": "( PBN en SID y STAR avanzado ) Procedimientos: generación de cartas, simulación/validación y preparación de AIP. En curso la coordinación con ATC/operadores y la verificación de trayectorias."
   },
   {
     "ONR": "ATM 11",
@@ -77,7 +77,7 @@
     "Avance segun plan": 80,
     "Avance real": 100,
     "Estado actual": "Completado",
-    "Observaciones": "(Operaciones simultáneas en pistas paralelas) Suplemento publicado"
+    "Observaciones": "( Operaciones simultáneas en pistas paralelas ) Suplemento publicado"
   },
   {
     "ONR": "ATM 12",
@@ -85,7 +85,7 @@
     "Avance segun plan": 100,
     "Avance real": 25,
     "Estado actual": "En progreso",
-    "Observaciones": "(FRA Espacio aéreo de ruta libre) Mantenimiento plan"
+    "Observaciones": "( FRA Espacio aéreo de ruta libre ) Mantenimiento plan"
   },
   {
     "ONR": "ATM 23",
@@ -93,7 +93,7 @@
     "Avance segun plan": 100,
     "Avance real": 60,
     "Estado actual": "En progreso",
-    "Observaciones": "(Intercambio datos de comunicaciones entre ATS) Mantenimiento lista de verificacion"
+    "Observaciones": "( Intercambio datos de comunicaciones entre ATS ) Mantenimiento lista de verificacion"
   },
   {
     "ONR": "ATM 25",
@@ -109,7 +109,7 @@
     "Avance segun plan": 100,
     "Avance real": 100,
     "Estado actual": "Completado",
-    "Observaciones": "MSAW Advertencia de Altitud Mínima de Seguridad"            
+    "Observaciones": "MSAW Advertencia de Altitud Mínima de Seguridad"
   },
   {
     "ONR": "ATM 28",
@@ -117,7 +117,7 @@
     "Avance segun plan": 100,
     "Avance real": 100,
     "Estado actual": "Completado",
-    "Observaciones": "APW Vigilancia de la trayectoria de aproximación"            
+    "Observaciones": "APW Vigilancia de la trayectoria de aproximación"
   },
   {
     "ONR": "ATM 29",
@@ -125,7 +125,7 @@
     "Avance segun plan": 100,
     "Avance real": 100,
     "Estado actual": "Completado",
-    "Observaciones": "APM Vigilancia de la trayectoria de aproximación"            
+    "Observaciones": "APM Vigilancia de la trayectoria de aproximación"
   },
   {
     "ONR": "ATM 31",
@@ -133,7 +133,7 @@
     "Avance segun plan": 100,
     "Avance real": 80,
     "Estado actual": "En progreso",
-    "Observaciones": "(Integración de las gestiones de Espacio aéreo con Flujo de tránsito)- Mantenimiento del plan"
+    "Observaciones": "( Integración de las gestiones de Espacio aéreo con Flujo de tránsito ) Mantenimiento del plan"
   },
   {
     "ONR": "ATM 32",
@@ -141,7 +141,7 @@
     "Avance segun plan": 100,
     "Avance real": 80,
     "Estado actual": "En progreso",
-    "Observaciones": "(Actualizaciones de vuelo en la red operacional) - Mantenimiento del plan"
+    "Observaciones": "(Actualizaciones de vuelo en la red operacional) Mantenimiento del plan"
   },
   {
     "ONR": "ATM 34",
@@ -149,15 +149,15 @@
     "Avance segun plan": 100,
     "Avance real": 100,
     "Estado actual": "Completado",
-    "Observaciones": "(SLOTs iniciales de aeródromo-ATFM e Interfaz de red)"            
+    "Observaciones": "( SLOTs iniciales de aeródromo - ATFM e Interfaz de red )"
   },
   {
     "ONR": "ATM 41",
     "Fecha I.": 2023,
     "Avance segun plan": 100,
     "Avance real": 0,
-    "Estado actual": "Retrasado",
-    "Observaciones": "(Descentralización del Centro Control) - Stand by"
+    "Estado actual": "Stand by",
+    "Observaciones": "( Descentralización del Centro Control ) Stand by"
   },
   {
     "ONR": "CNS 01",
@@ -165,7 +165,7 @@
     "Avance segun plan": 100,
     "Avance real": 25,
     "Estado actual": "En progreso",
-    "Observaciones": "(ADS-B) - CORPAC completó la implementación en tierra. En curso: validación y pruebas con actores, en curso."
+    "Observaciones": "(ADS-B) CORPAC completó la implementación en tierra. En curso: validación y pruebas con actores, en curso."
   },
   {
     "ONR": "CNS 02",
@@ -181,7 +181,7 @@
     "Avance segun plan": 100,
     "Avance real": 100,
     "Estado actual": "Completado",
-    "Observaciones": "AMHS"    
+    "Observaciones": "AMHS"
   },
   {
     "ONR": "CNS 07",
@@ -189,7 +189,7 @@
     "Avance segun plan": 90,
     "Avance real": 100,
     "Estado actual": "Completado",
-    "Observaciones": "CPDLC"    
+    "Observaciones": "CPDLC"
   },
   {
     "ONR": "CNS 08",
@@ -197,7 +197,7 @@
     "Avance segun plan": 100,
     "Avance real": 100,
     "Estado actual": "Completado",
-    "Observaciones": "ADS-C"    
+    "Observaciones": "ADS-C"
   },
   {
     "ONR": "AIM 01",
@@ -205,7 +205,7 @@
     "Avance segun plan": 100,
     "Avance real": 24,
     "Estado actual": "En progreso",
-    "Observaciones": "(Sistema de Calidad para eAIP) - CORPAC he enviado cronograma de implantacion."
+    "Observaciones": "( Sistema de Calidad para eAIP ) CORPAC he enviado cronograma de implantacion."
   },
   {
     "ONR": "AIM 02",
@@ -213,7 +213,7 @@
     "Avance segun plan": 100,
     "Avance real": 1,
     "Estado actual": "Stand by",
-    "Observaciones": "(Publicación eAIP digital) - Depende de la implantacion del AMHS interoperable"
+    "Observaciones": "( Publicación eAIP digital ) Depende de la implantacion del AMHS interoperable"
   },
   {
     "ONR": "AIM 03",
@@ -221,7 +221,7 @@
     "Avance segun plan": 100,
     "Avance real": 1,
     "Estado actual": "Stand by",
-    "Observaciones": "(Suministro datos del terreno) - Depende de la implantacion del AMHS interoperable"
+    "Observaciones": "( Suministro datos del terreno ) Depende de la implantacion del AMHS interoperable"
   },
   {
     "ONR": "AIM 04",
@@ -229,7 +229,7 @@
     "Avance segun plan": 100,
     "Avance real": 1,
     "Estado actual": "Stand by",
-    "Observaciones": "(Suministro de datos de obstáculos) - Depende de la implantacion del AMHS interoperable"
+    "Observaciones": "( Suministro de datos de obstáculos ) Depende de la implantacion del AMHS interoperable"
   },
   {
     "ONR": "AIM 05",
@@ -237,7 +237,7 @@
     "Avance segun plan": 100,
     "Avance real": 1,
     "Estado actual": "Stand by",
-    "Observaciones": "(Suministro de cartografía digital de aeródromos) - Depende de la implantacion del AMHS interoperable"
+    "Observaciones": "( Suministro de cartografía digital de aeródromos ) Depende de la implantacion del AMHS interoperable"
   },
   {
     "ONR": "AIM 06",
@@ -245,8 +245,6 @@
     "Avance segun plan": 100,
     "Avance real": 1,
     "Estado actual": "Stand by",
-    "Observaciones": "(Suministro de procedimientos digitales de vuelgo) - Depende de la implantacion del AMHS interoperable"
+    "Observaciones": "( Suministro de procedimientos digitales de vuelo ) Depende de la implantacion del AMHS interoperable"
   }
 ]
-
-
