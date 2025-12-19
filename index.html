@@ -186,13 +186,14 @@
         const avancePendiente = 100 - avancePromedio;
 
         // 2. Calcular distribución por estados
-        const conteoEstados = { completados: 0, enProgreso: 0, retrasados: 0 };
+        const conteoEstados = { completados: 0, enProgreso: 0, standBy: 0, retrasados: 0 };
         
         tabla.slice(1).forEach(row => {
           const estado = (row[2] || "").toLowerCase(); // Estado actual es índice 2
           if (estado.includes("completado")) conteoEstados.completados++;
           else if (estado.includes("progreso")) conteoEstados.enProgreso++;
-          else if (estado.includes("retrasado") || estado.includes("stand by")) conteoEstados.retrasados++;
+		  else if (estado.includes("stand by")) conteoEstados.standBy++;
+          else if (estado.includes("retrasado")) conteoEstados.retrasados++;
         });
         
         const totalProyectosEstado = conteoEstados.completados + conteoEstados.enProgreso + conteoEstados.retrasados;
@@ -211,6 +212,7 @@
         createDonutChart("estados-chart", [
           { label: "Completados", value: conteoEstados.completados, color: "#4CAF50" },
           { label: "En progreso", value: conteoEstados.enProgreso, color: "#FFC107" },
+          { label: "Stand by", value: conteoEstados.standBy, color: "#2196F3" },
           { label: "Retrasados", value: conteoEstados.retrasados, color: "#F44336" }
         ], "Distribución por Estado", false, 0, `${conteoEstados.completados}/${totalProyectosEstado}`);
 
